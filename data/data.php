@@ -1,0 +1,7 @@
+<?php 
+
+$plot1= 'On Halloween, Gotham City mayor Don Mitchell Jr. is murdered by a man calling himself the Riddler. Reclusive billionaire Bruce Wayne, who has operated for two years as the vigilante Batman, investigates alongside the Gotham City Police Department (GCPD). Lieutenant James Gordon discovers a message left for Batman by the Riddler, but commissioner Pete Savage berates him for allowing a vigilante to enter the crime scene and forces Batman to leave. Soon after, the Riddler kills Savage and leaves another message for Batman. ';
+$plot2= 'A gang of criminals rob a Gotham City mob bank; the Joker manipulates them into murdering each other for a higher share until only he remains and escapes with the money. Batman, District Attorney Harvey Dent and Lieutenant Jim Gordon form an alliance to rid Gotham of organized crime. Bruce Wayne is impressed with Dent\'s idealism and offers to support his career; he believes that, with Dent as Gotham\'s protector, he can give up being Batman and lead a normal life with Rachel Dawes—even though she and Dent are dating. ';
+$plot3= 'In Gotham City, young Bruce Wayne falls down a dry well and is attacked by a swarm of bats, developing a fear of them. Attending the opera with his parents, Thomas and Martha, Bruce becomes frightened by performers masquerading as bats and asks to leave. Outside, mugger Joe Chill murders Bruce\'s parents in front of him, and the orphaned Bruce is raised by the family butler, Alfred Pennyworth. ';
+
+?>
